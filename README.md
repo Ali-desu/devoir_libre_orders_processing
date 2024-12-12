@@ -29,7 +29,7 @@ The **Order Processing System** is like the magic wand for orders, zipping throu
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Ali-desu/OrderProcessingSystem.git
+   git clone https://github.com/Ali-desu/devoir_libre_orders_processing.git
    cd OrderProcessingSystem
   
 
